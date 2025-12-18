@@ -1,0 +1,8 @@
+.notas{
+    margin-top: 40px;
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    height: 15em;
+    justify-content: center;
+}

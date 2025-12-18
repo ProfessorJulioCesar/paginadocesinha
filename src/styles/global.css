@@ -1,0 +1,20 @@
+:root{
+    --cor-destaque: #008080;
+    --cor-enfase: #FF9F1C;
+}
+
+html{
+    background-color: var(--cor-destaque);
+}
+
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+a{
+    color:white;
+}

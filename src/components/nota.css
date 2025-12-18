@@ -1,0 +1,13 @@
+.nota{
+    text-align: center;
+    padding: 1em;
+    background-color: var(--cor-enfase);
+    border-radius: 15px;
+    width: 20em;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
